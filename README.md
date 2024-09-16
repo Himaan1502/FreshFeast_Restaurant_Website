@@ -1,4 +1,4 @@
-# FreshFeast_Restaurant_Website
+# FreshFeast Restaurant Website
 A restaurant website for a healthy food restaurant named Fresh Feast.
 
 Welcome to Fresh Feast, where culinary excellence meets farm-fresh ingredients! Our restaurant is a haven for food lovers seeking a memorable dining experience that celebrates the essence of nature's bounty.
